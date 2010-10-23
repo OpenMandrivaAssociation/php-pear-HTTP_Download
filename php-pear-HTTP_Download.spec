@@ -5,8 +5,8 @@
 %define		_requires_exceptions pear(Archive/Zip.php)
 
 Name:		php-pear-%{upstream_name}
-Version:	1.1.3
-Release:	%mkrel 4
+Version:	1.1.4
+Release:	%mkrel 1
 Summary:	Send HTTP Downloads
 License:	PHP License
 Group:		Development/PHP
