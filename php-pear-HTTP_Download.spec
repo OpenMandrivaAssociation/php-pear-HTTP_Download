@@ -8,7 +8,7 @@ Release:	5
 Summary:	Send HTTP Downloads
 License:	PHP License
 Group:		Development/PHP
-URL:		http://pear.php.net/package/HTTP_Download/
+URL:		https://pear.php.net/package/HTTP_Download/
 Source0:	http://download.pear.php.net/package/%{upstream_name}-%{version}.tar.bz2
 Requires(post): php-pear
 Requires(preun): php-pear
